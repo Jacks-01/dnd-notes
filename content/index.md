@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Humblewood Campaign
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+THe campaign wiki for Humblewood. More to come!
