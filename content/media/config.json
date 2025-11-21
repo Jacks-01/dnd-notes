@@ -1,0 +1,18 @@
+{
+    "full-source": {
+        "adventure": [
+            "HWAitW"
+        ],
+        "book": [
+            "HWCS"
+        ]
+    },
+    "from": [
+        "HWCS",
+        "HWAitW"
+    ],
+    "paths": {
+        "compendium": "z_compendium/",
+        "rules": "/compendium/rules/"
+    }
+}
