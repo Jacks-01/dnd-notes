@@ -5,8 +5,8 @@ on:
     branches:
       - v4
 
-env: 
-  THEME_NAME <its-theme.ttrpg-dnd
+env:
+  THEME_NAME: <its-theme.ttrpg-dnd
 
 permissions:
   contents: read
