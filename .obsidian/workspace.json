@@ -11,10 +11,14 @@
             "id": "38c892bc3193cfce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/NPCs/Petra Cloudburst.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Petra Cloudburst"
             }
           }
         ]
@@ -178,6 +182,24 @@
   },
   "active": "38c892bc3193cfce",
   "lastOpenFiles": [
+    "content/NPCs/Petra Cloudburst.md",
+    "content/NPCs",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_Puzzle_5.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_Puzzle_4.webp",
+    "content/Media/HWCS/Noctis Hollow/Sanguivori.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_Puzzle_1.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_Puzzle_3.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_Puzzle_2.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_8.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_9.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_3.webp",
+    "content/Media/HWCS/Noctis Hollow/Noctis_Hollow_7.webp",
+    "content/Media/HWCS/Noctis Hollow",
+    "content/Media/HWCS",
+    "content/index.md",
+    "content/Media",
+    "content/Amaranthine",
+    "content",
     "content/Races/Rhopala.md",
     "content/Races/Pexian.md",
     "content/Races/Mustel.md",
@@ -185,30 +207,13 @@
     "content/Races/Greno.md",
     "content/Races/Eluran.md",
     "content/Media/ttrpg-convert.exe",
-    "content/Media/Snapchat-825030759.webp",
-    "content/Media/Snapchat-271248536.webp",
-    "content/Media/Snapchat-252782737.webp",
-    "content/Media/Snapchat-2073238.webp",
-    "content/Media/Snapchat-1301813629.webp",
     "content/Media/config.json",
-    "content/Media/castle.webp",
-    "content/Media/6.webp",
-    "content/Media/6 1.webp",
-    "content/Media/4.webp",
-    "content/Media/3.webp",
-    "content/index.md",
-    "content/Amaranthine",
     "content/media/HWCS/Noctis Hollow",
     "content/Races/Capran.md",
     "content/Races/Arma Hedge.md",
     "content/Races/Arkton.md",
     "content/Races/Almare.md",
     "content/NPCs/Petra Cloudburst.md",
-    "content/media/ttrpg-convert.exe",
-    "content/media/red_queens_burden.pdf",
-    "content/media/HWCS",
-    "content/media/config.json",
-    "content/Races",
-    "content/NPCs"
+    "content/media/ttrpg-convert.exe"
   ]
 }
