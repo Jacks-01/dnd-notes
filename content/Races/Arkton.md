@@ -3,7 +3,7 @@
 Arktons resemble bears of all kinds, from the massive polar and grizzly bears to the smaller sun and sloth bears. They are the largest of the folk in Everden and use their naturally intimidating size to defend and comfort their allies.
 ![[1.png]]
 
-![[3 2.png]]
+![[3 2.webp]]
 ## **Born of the Earth**
 
 The first arkton is said to have formed during the earliest days of Everden when the world was still new. A nameless earth elemental, weary from wandering the plains, lay down to rest and fell into a deep slumber. As time stretched on, stone, dirt, and mud accumulated around the elemental until a grass-covered hill was all that remained. One warm spring day, after seasons of slumbering, the first arkton emerged from beneath that hill and felt the sun on their fur for the first time.

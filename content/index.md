@@ -1,4 +1,7 @@
 ---
 title: Humblewood Campaign
 ---
-THe campaign wiki for Humblewood. More to come!
+The campaign wiki for Humblewood. More to come!
+
+Github Pages: https://jacks-01.github.io/dnd-notes/
+FoundryVTT link:
