@@ -3,7 +3,7 @@ The gwin are inspired by penguins of all kinds. Skilled sailors and swimmers, th
 
 ---
 
-![[1 3.png]]
+![[1 3.webp]]
 
 # **The First Gift**
 
