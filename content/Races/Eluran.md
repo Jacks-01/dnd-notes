@@ -2,7 +2,7 @@
 
 Elurans are feline folk renowned for their poise, calm demeanor, and keen insight into the motives of others. Some elurans are talented craftspeople whose wares are traded as far as the northern Frostcap Mountains. The eluran culture has flourished in the jungle of the Tanglewilds.
 
-![[1 1.png]]
+![[1 1.webp]]
 
 ## **Blessed by the Sun and the Moon**
 
