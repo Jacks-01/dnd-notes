@@ -4,8 +4,8 @@ Rockburrow jerbeen resemble chinchillas, pikas, degus, and other large and fluff
 
 
 
-![[HW2_Chapter-1_0.01-40.png]]
-![[2 3.webp]]
+![[public/Media/HWCS/HW2_Chapter-1_0.01-40.png]]
+![[Media/2 3.webp]]
 
 ---
 

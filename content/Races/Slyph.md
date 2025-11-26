@@ -2,7 +2,7 @@
 
 The sylph are the smallest of all the birdfolk in Everden. They have the speed, liveliness, and energy of hummingbirds. It is unwise to underestimate the short-statured sylphs as they are capable of great feats of endurance and bravery.
 
-![[HW2_Chapter-1_0.01-58 1.png]]
+![[Media/HWCS/HW2_Chapter-1_0.01-58 1.png]]
 
 ---
 

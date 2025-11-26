@@ -3,9 +3,9 @@
 Lunins are a race of canine folk. Though they all share the ability to bite, extraordinary noses, and a deep sense of loyalty, they exhibit great diversity in their other skills. Their furry coats can be long, short, wiry, curly, or silky, and they come in almost any shade with patterns of markings from solid to spotty.
 
 ---
-![[2 1.webp]]
+![[Media/2 1.webp]]
 
-![[1 5.webp]]
+![[Media/1 5.webp]]
 # **Obscure Origins**
 
 The legends that lunins tell about themselves say that they originally came from a world beyond Everden. These stories tell of a being who created the lunins, gifting them with many extraordinary talents and crafting their forms into a wide variety of sizes and shapes. The lunins call this being **The Friend**, and many worship them as though they were an Amaranthine.

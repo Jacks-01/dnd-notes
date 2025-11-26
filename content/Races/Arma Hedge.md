@@ -2,9 +2,9 @@
 
 Beyond the borders of Humblewood live hedges whose spiny quills have grown into bony plates. Blessed by the Amaranthine **Henwin** with a natural connection to the earth, the sturdy arma hedges have made their homes in the foothills and mountains of Firnveldt, as well as in the very heart of Stormcrag.
 
-![[HW2_Chapter-1_0.01-34.png]]
+![[public/Media/HWCS/HW2_Chapter-1_0.01-34.png]]
 
-![[12 1.webp]]
+![[Media/12 1.webp]]
 ## **Naturally Armored**
 
 With their bony armor and their long tails, arma hedges resemble armadillos or pangolins more than their hedgehog-like cousins, the spiny hedges. However, they share the same empathetic and sensitive nature. It is often said that the friendship of an arma hedge is as solid as a stone and just as difficult to mend if broken. Arma hedges’ bony plates don’t pose as much of a hindrance to wearing clothing as the spines of other hedges, but they still prevent them from wearing armor. Instead of armor, arma hedges decorate their plates with pigments in intricate designs.
@@ -92,4 +92,4 @@ As an action, you can focus on defense to present your foes with a solid wall of
 You have the magical ability to speak with rocks, crystals, and minerals. When doing so, you impart limited sentience on the stone for a number of minutes equal to your proficiency bonus. During this time, the rock communicates with you telepathically, and it can transmit any basic occurrences it has experienced (for example, pressure, temperature, wetness, or sounds, such as words spoken near it).
 
 
-![[HW2_Chapter-1_0.01-32.png]]
+![[public/Media/HWCS/HW2_Chapter-1_0.01-32.png]]

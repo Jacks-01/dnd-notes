@@ -1,7 +1,7 @@
 The almare are intrepid birdfolk shaped by the rough and tumble of tempestuous seas. They have a reputation for being bold, brash, and always getting what they want one way or another. Among all the birdfolk, they are the most adept at using their feathered arms to perform extraordinary feats while gliding.
 
 
-![[3 1.webp]]
+![[Media/3 1.webp]]
 
 ## **Voyagers and Traders**
 
@@ -100,8 +100,8 @@ When you make a melee attack on your turn, you can disengage as a bonus action. 
 ### **Sky Dive.**
 
 While falling or gliding, you can use your action to drop into a dive to make a melee attack against a target within no more than 100 feet below you and no more than 20 feet from you in any other direction. You have advantage on this attack, and you deal an additional 1d8 damage of the attack’s type on a hit. You take no damage from the rapid descent and don’t land prone if you end your turn on a surface. When you finish your dive, you end your movement in an unoccupied space adjacent to the target. You can’t dive at targets that are above you or parallel with you.
-![[4.webp]]
+![[public/Media/4.webp]]
 
-![[2.webp]]
+![[public/Media/2.webp]]
 
-![[3.webp]]
+![[public/Media/3.webp]]

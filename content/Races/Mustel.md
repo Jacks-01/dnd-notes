@@ -3,9 +3,9 @@
 The independent and determined mustel are some of the least common folk in Wesden. They have a reputation for being stubborn as once a mustel has set their mind to a course of action, it is almost impossible to convince them to give up. All mustels have powerful jaws, no matter their size.
 
 ---
-![[10.webp]]
-![[6 1.webp]]
-![[3 4.webp]]
+![[public/Media/10.webp]]
+![[Media/6 1.webp]]
+![[Media/3 4.webp]]
 
 # **Wilderness Wanderers**
 

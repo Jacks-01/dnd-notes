@@ -2,7 +2,7 @@
 
 The roden are a cunning and tight knit species known for their talent for exploration and survival. They live and convene in large numbers, believing that there is no such thing as ‘too many hands’ when it comes to work and community.
 
-![[1 10.webp]]
+![[Media/1 10.webp]]
 
 ## **Strength in Numbers**
 

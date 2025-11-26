@@ -2,7 +2,7 @@
 
 Webpaw mustels are folk who resemble otters. Their long bodies, webbed hands and feet, and slick fur make them powerful swimmers, as comfortable in the water as they are on the land. Like all mustels, webpaws have strong jaws that can deliver a crushing bite.
 
-![[1 14.webp]]
+![[Media/1 14.webp]]
 
 ---
 

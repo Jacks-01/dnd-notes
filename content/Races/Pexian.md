@@ -2,8 +2,8 @@
 
 Pexians are amphibious folk who originate in underground lakes on the Gasparian Isles. Today, they are found across land and sea, where they can use their ability to navigate both land and water to their advantage. Pexians are excellent swimmers thanks to their webbed hands and feet and strong tails. Artistry and philosophy are highly valued in pexian culture, and personal decoration is used to express beliefs as well as personal style. Pexians often adorn the colorful frills on their heads and tails with jewelry.
 
-![[2 2.webp]]
-![[1 6.webp]]
+![[Media/2 2.webp]]
+![[Media/1 6.webp]]
 
 ## **Changemakers**
 

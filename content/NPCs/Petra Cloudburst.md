@@ -1,19 +1,7 @@
 ---
-type: npc
-Name: Petra Cloudburst
-Nickname: The Captain
-Age: "55"
-Race: Raptor
-Gender: Female
-Alignment: Lawful Good
-Related:
-Organization: The Crimson Rose
-Occupation: Merchant
-Religion: Chluran
-Locations: Saltar's Port
-Languages: Humblefolk, Birdfolk
-Art: Media/HWCS/Petra_Cloudburst.webp
+{"publish":true,"created":"2025-11-26T08:58:46.429-06:00","modified":"2025-11-26T08:55:57.225-06:00","cssclasses":""}
 ---
+
 
 
 
@@ -23,12 +11,12 @@ Art: Media/HWCS/Petra_Cloudburst.webp
 > ###### Bio
 > | --- | --- |
 > | ---- | ---- |
-> | Race | `=this.Race` |
-> | Gender | `=this.Gender` |
-> | Age | `=this.Age` |
-> | Gender | `=this.Alignment` |
-> | Organization | `=this.Organization` |
-> | Religion | `=this.Religion` |
+> | Race | Raptor |
+> | Gender | Female |
+> | Age | 55 |
+> | Gender | Lawful Good |
+> | Organization | The Crimson Rose |
+> | Religion | Chluran |
 
 ### Description
 
