@@ -1,9 +1,7 @@
 # **Eluran**
-
+![[Media/HWCS/eluran-tiger.webp|right|400]]
 Elurans are feline folk renowned for their poise, calm demeanor, and keen insight into the motives of others. Some elurans are talented craftspeople whose wares are traded as far as the northern Frostcap Mountains. The eluran culture has flourished in the jungle of the Tanglewilds.
 
-![[public/Media/HWCS/HW2_Chapter-1_0.01-28.png]]
-![[Media/1 4.webp]]
 ## **Blessed by the Sun and the Moon**
 
 Elurans are blessed with several gifts they attribute to the Amaranthines. Their keen senses let them navigate well in darkness and can pick up subtle changes in a person’s demeanor. Their claws are retractable and razor-sharp, allowing them to quickly scale obstacles or rake their foes. Beyond this, elurans are blessed with natural magic, which they can use to unleash a destructive roar or a comforting purr, depending on their lineage.
