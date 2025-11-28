@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The porchini are a pig-like folk well known for their quick wits and quicker footing. They enjoy the finer things in life, and have a nose for quality food and wares. Porchini are often fickle, moving from one exciting thing to the next, but when it comes to defending a position they know how to hold their ground.
 
 ![[content/Media/1 7.webp]]

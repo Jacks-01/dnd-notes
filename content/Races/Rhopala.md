@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The rhopala are a nomadic, moth and butterfly-like species that build their homes in silky webs that can temporarily cling to trunks and branches. They follow stars and the moon, seeking guidance and enlightenment from the night sky.
 
 ![[content/Media/1 8.webp]]

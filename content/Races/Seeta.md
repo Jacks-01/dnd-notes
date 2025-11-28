@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Seeta**
 
 Seeta are a diverse group of birdfolk with colorful plumage and prominent beaks. Many seeta make their home in treetop communities throughout the Tanglewilds and in the Gasparian Isles.

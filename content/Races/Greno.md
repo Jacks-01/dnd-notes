@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Greno are a folk similar to frogs and toads. They live comfortably in water and on land thanks to their amphibious nature and webbed hands and feet that make them excellent swimmers.
 
 ![[content/Media/1 2.webp]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Roden**
 
 The roden are a cunning and tight knit species known for their talent for exploration and survival. They live and convene in large numbers, believing that there is no such thing as ‘too many hands’ when it comes to work and community.

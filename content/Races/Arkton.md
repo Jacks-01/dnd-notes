@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Arkton**
 
 Arktons resemble bears of all kinds, from the massive polar and grizzly bears to the smaller sun and sloth bears. They are the largest of the folk in Everden and use their naturally intimidating size to defend and comfort their allies.

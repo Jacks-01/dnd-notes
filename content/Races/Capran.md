@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Capran**
 
 Caprans are a group of goat- and sheep-like folk whose myths say they parted ways with the cervans living in Humblewood in ancient times. They traveled across the tall peaks of the Horned Ridge under the guidance of Arghan, their patron Amaranthine. Capable of enduring rugged environments, caprans make their homes across Wesden, from the steppes and foothills of Firnveldt to the frozen north of the Crystal Expanse and the volatile wilderness of Stormcrag.

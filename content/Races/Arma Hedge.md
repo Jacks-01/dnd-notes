@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Arma Hedge**
 
 Beyond the borders of Humblewood live hedges whose spiny quills have grown into bony plates. Blessed by the Amaranthine **Henwin** with a natural connection to the earth, the sturdy arma hedges have made their homes in the foothills and mountains of Firnveldt, as well as in the very heart of Stormcrag.

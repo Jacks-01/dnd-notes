@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The vesper species is inspired by bats and flying foxes. These cave-dwelling folk are cloaked in mystery and are most at home in darkness. Most folk believe that the elusive vespers are just myths. They feature as villains in ancient birdfolk legends, which describe them as unnatural beings transformed from birdfolk into their current forms by an evil Amaranthine. Other tales paint vespers as blood-drinking creatures of ill omen that come from another world and threaten all of Everden. However, vespers are very real and nothing like the stories told about them on the surface of Everden.
 
 ![[content/Media/1 13.webp]]

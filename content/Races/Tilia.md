@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Tilia**
 
 Tilias are a gecko-like folk known for their curiosity, openness, and joviality. Creativity and open-mindedness are the cornerstones of tilian society, and those seen as sophisticated are held in great regard. The most respect, however, is afforded to those who can advance their agendas subtly through wit and charm.

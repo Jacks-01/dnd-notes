@@ -1,3 +1,6 @@
+---
+publish: true
+---
 The almare are intrepid birdfolk shaped by the rough and tumble of tempestuous seas. They have a reputation for being bold, brash, and always getting what they want one way or another. Among all the birdfolk, they are the most adept at using their feathered arms to perform extraordinary feats while gliding.
 
 

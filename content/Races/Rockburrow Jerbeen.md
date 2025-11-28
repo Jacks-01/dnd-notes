@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Rockburrow Jerbeen**
 
 Rockburrow jerbeen resemble chinchillas, pikas, degus, and other large and fluffy rodents. They are taller and more sturdy than their cousins, the fieldscurry jerbeens.

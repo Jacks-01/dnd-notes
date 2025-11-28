@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **New Race: Lunin**
 
 Lunins are a race of canine folk. Though they all share the ability to bite, extraordinary noses, and a deep sense of loyalty, they exhibit great diversity in their other skills. Their furry coats can be long, short, wiry, curly, or silky, and they come in almost any shade with patterns of markings from solid to spotty.

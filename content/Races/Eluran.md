@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # **Eluran**
 
 Elurans are feline folk renowned for their poise, calm demeanor, and keen insight. Some elurans are talented crafters whose wares are traded as far north as the Frostcaps. In the south, eluran culture has flourished in the jungle of the Tanglewilds for millennia as part of the Luzos Regency.
