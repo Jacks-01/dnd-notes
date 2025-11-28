@@ -2,7 +2,7 @@
 
 Seeta are a diverse group of birdfolk with colorful plumage and prominent beaks. Many seeta make their home in treetop communities throughout the Tanglewilds and in the Gasparian Isles.
 
-![[HW2_Chapter-1_0.01-52.png]]
+![[HW2_Chapter-1_0.01-52.webp]]
 ![[2 4.webp]]
 
 ---
@@ -100,4 +100,4 @@ You have the innate ability to alter your voice, allowing you to convincingly re
 
 ### **Languages.**
 
-You can speak, read, and write Birdfolk and two other languages of your choice. You can also understand Auran, though you cannot speak it naturally.![[HW2_Chapter-1_0.01-49 1.png]]
+You can speak, read, and write Birdfolk and two other languages of your choice. You can also understand Auran, though you cannot speak it naturally.![[HW2_Chapter-1_0.01-49 1.webp]]
