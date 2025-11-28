@@ -3,7 +3,7 @@
 Elurans are feline folk renowned for their poise, calm demeanor, and keen insight. Some elurans are talented crafters whose wares are traded as far north as the Frostcaps. In the south, eluran culture has flourished in the jungle of the Tanglewilds for millennia as part of the Luzos Regency.
 
 ---
-![[eluran-tiger.webp| right| 350]]
+![[public/media/HWCS/eluran-tiger.webp| right| 350]]
 ## **Blessed by the Sun and the Moon**
 
 Elurans are blessed with several gifts: keen senses to navigate well in darkness and discern subtle changes in a person’s demeanor; retractable claws to quickly scale obstacles or rake their foes; and natural magic, which they can use to unleash a destructive roar or a comforting purr, depending on their lineage.

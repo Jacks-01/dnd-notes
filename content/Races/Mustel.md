@@ -4,8 +4,8 @@ The independent and determined mustel are some of the least common folk in Wesde
 
 ---
 ![[public/Media/10.webp]]
-![[content/Media/6 1.webp]]
-![[content/Media/3 4.webp]]
+![[6 1.webp]]
+![[3 4.webp]]
 
 # **Wilderness Wanderers**
 
