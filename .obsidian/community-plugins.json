@@ -1,5 +1,6 @@
 [
-  "image-converter",
   "obsidian-style-settings",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "dataview",
+  "quartz-syncer"
 ]
