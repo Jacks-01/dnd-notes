@@ -1,3 +1,16 @@
-@use "./base.scss";
+@use './base.scss';
 
 // put your custom CSS here!
+
+// Ensure images never exceed the width of the text container
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	object-fit: contain;
+}
+
+// Optional: If you want images to be centered when they are smaller than the page
+.notepage img {
+	margin: 0 auto;
+}
