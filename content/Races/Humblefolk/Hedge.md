@@ -48,6 +48,11 @@ Your base walking speed is 25 feet.
 
 You have a **burrowing speed of 15 feet**. You are capable of burrowing through soil, but are unable to dig through anything more substantial with just your clawed hands.
 
+### **Ancestry Options
+
+There are two different hedge ancestries: **[[Arma Hedge|arma hedges]]** and **[[Hedge|spiny hedges]]**. Choose one of these ancestry options.
+
+
 ### Spiny Quills
 
 The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, therefore you have a **base armor class of 14 + your Dexterity modifier**. Even though you can’t wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.
@@ -69,3 +74,4 @@ Through sounds and gestures, you can communicate simple ideas with creatures of 
 ### Languages
 
 You can speak, read, and write **[[Birdfolk]]** and **[[Hedge (Language)|Hedge]]**.
+

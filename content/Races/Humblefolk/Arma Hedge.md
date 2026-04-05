@@ -76,7 +76,7 @@ You can speak, read, and write Birdfolk and Hedge. Arma hedges speak a dialect o
 
 ### **Ancestry Options
 
-There are two different hedge ancestries: **arma hedges** and **spiny hedges**. Choose one of these ancestry options.
+There are two different hedge ancestries: **arma hedges** and **[[Hedge|spiny hedges]]**. Choose one of these ancestry options.
 
 ---
 
